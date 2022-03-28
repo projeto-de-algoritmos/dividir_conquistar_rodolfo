@@ -32,8 +32,11 @@ Para compilar código C : `gcc -Wall [arquivo.c] -o out`
 Para compilar código C++ : `g++ [arquivo.cpp] -o out`
 
 
+Para executar: ./out
+
+
 ## Outros 
 
-
+vídeo de apresentação
 
 
