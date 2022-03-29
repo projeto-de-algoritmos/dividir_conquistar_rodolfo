@@ -5,9 +5,6 @@ Tema:
 
 # Exercícios de Dividir e Conquistar
 
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
-
 ## Alunos
 |Matrícula | Aluno |
 
@@ -17,7 +14,15 @@ Tema:
 Exercícios de Dividir e Conquistar feitos no Codeforces
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+[Exercício 1206A](https://codeforces.com/problemset/problem/1206/A)
+
+![1206A](https://user-images.githubusercontent.com/9947506/160527986-268f08ce-4d80-4ecd-9100-909b01b12344.png)
+
+[Exercício 339A](https://codeforces.com/problemset/problem/339/A)
+
+![339A](https://user-images.githubusercontent.com/9947506/160528208-f5caa9a5-1abb-47a0-bc2d-08a3b094d3bf.png)
+
 
 ## Instalação 
 **Linguagem**: C/c++<br>
