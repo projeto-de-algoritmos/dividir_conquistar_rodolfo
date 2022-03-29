@@ -42,6 +42,6 @@ Para executar: ./out
 
 ## Outros 
 
-vídeo de apresentação
+https://drive.google.com/file/d/1PfAACPAB9im7js09h80PWF0CEeuiHf0G/view?usp=sharing
 
 
